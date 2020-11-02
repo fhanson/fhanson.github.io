@@ -1,11 +1,13 @@
 
 title: Collecting Dust
 email: fhanson@cloud-mgmt.com
+logo: /static/franklin_self_portrait.png
 description: Collection of links and tidbits for Franklin Hanson
 baseurl: ''
-url: ''
+url: 'https://cloud-mgmt.com'
 twitter_username: franklinhanson1
 github_username: fhanson
+linkedin_username: franklin-hanson
 theme: minima
 plugins:
   - jekyll-feed
