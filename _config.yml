@@ -6,6 +6,6 @@ baseurl: ''
 url: ''
 twitter_username: franklinhanson1
 github_username: fhanson
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
