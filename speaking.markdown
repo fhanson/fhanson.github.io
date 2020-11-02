@@ -18,4 +18,5 @@ Google Atlanta Cloud Summit 2019
 <img src="/static/4123F43B-C48D-4B2C-A542-EB337114DE84.JPG" width="560">
 
 [Cloudycon 2019](https://www.apptio.com/blog/cloudycon-mainstage-speaker-spotlight-part-2/)
+
 <img src="/static/cloudycon.jpg"  width="560">
