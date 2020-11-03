@@ -9,7 +9,7 @@
 
     <main class="page-content" aria-label="Content">
       <header>
-        {% if site.logo %}
+        {% if site.logo and page.logo_hidden != true %}
           <img src="{{site.logo | relative_url}}" alt="Logo" float=left align=left width=24% />
         {% endif %}
       </header>
