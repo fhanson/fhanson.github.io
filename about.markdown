@@ -1,18 +1,12 @@
 ---
+title: About
 layout: page
-<!-- title: About -->
-permalink: /about/
+"<!-- title": About
+permalink: "/about/"
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+<kbd>
+  <img src="/static/family.JPG" width="40%">
+</kbd>
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I have spent the last 7 years evangelizing cloud enablement within Gannett/USA TODAY. I have been fortunate to be able to lead an amazing group of engineers representing our internal shared services platforms within our product organization. At home I am a father to an infinite ball of energy and husband to an endlessly patient wife. When I am not chasing a toddler around I spend my time playing video games and building model railroads.
