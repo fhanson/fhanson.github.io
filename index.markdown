@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: page
 ---
 
 <div class='content' clear='right' position='relative' margin-top='30px' width='600px' padding-left='100px'>
