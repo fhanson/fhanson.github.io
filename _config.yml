@@ -8,6 +8,7 @@ url: 'https://cloud-mgmt.com'
 twitter_username: franklinhanson1
 github_username: fhanson
 linkedin_username: franklin-hanson
+keybase_username: fhanson
 theme: minima
 plugins:
   - jekyll-feed
