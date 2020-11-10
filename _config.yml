@@ -9,6 +9,7 @@ twitter_username: franklinhanson1
 github_username: fhanson
 linkedin_username: franklin-hanson
 keybase_username: fhanson
+google_analytics: G-2ZM10E01M1
 theme: minima
 plugins:
   - jekyll-feed

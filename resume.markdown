@@ -1,9 +1,9 @@
 ---
 title: Resume
 layout: page
+title_hidden: true
 ---
-***
-Experienced technical leader focused on driving business outcomes. Drive cultural transformations through team building and leading through change. Maintains costs and cloud efficiencies while delivering on key business goals and metrics.
+> Experienced technical leader focused on driving business outcomes. Drive cultural transformations through team building and leading through change. Maintains costs and cloud efficiencies while delivering on key business goals and metrics.
 
 ### Work History
 ***
