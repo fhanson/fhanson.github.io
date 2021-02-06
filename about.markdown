@@ -8,4 +8,4 @@ permalink: "/about/"
   <img src="/static/family.JPG" width="40%">
 </kbd>
 
-I have spent the last 7 years evangelizing cloud enablement within Gannett/USA TODAY. I have been fortunate to be able to lead an amazing group of engineers representing our internal shared services platforms within our product organization. At home I am a father to an infinite ball of energy and husband to an endlessly patient wife. When I am not chasing a toddler around I spend my time playing video games and building model railroads.
+I am a father to an infinite ball of energy and husband to an endlessly patient wife. When I am not chasing a toddler around I spend my time playing video games and building model railroads. At work I manage a group of teams at New Relic focused on performance and reliability within the telemetry data platform. Prior to New Relic I spent the previous 7 years evangelizing cloud enablement within Gannett/USA TODAY. My team was an amazing group of engineers building the internal shared services platform. 
