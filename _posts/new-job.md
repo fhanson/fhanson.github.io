@@ -1,6 +1,6 @@
 ---
 title: New Job
-layout: page
+layout: post
 category: blog
 ---
 
