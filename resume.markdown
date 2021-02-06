@@ -7,7 +7,11 @@ title_hidden: true
 
 ### Work History
 ***
-## Gannett (September 2013 - Present)
+## New Relic (December 2020 - Present)
+**Senior Director, Software Engineering**
+
+
+## Gannett (September 2013 - December 2020)
 **Director, Platform Engineering (2017-Present)**
 > Built a team from the ground up that replaced our primary content data store and its surrounding API ecosystem focusing on performance and API consumer experience.
 Created an SRE practice  focused on edge reliability within Gannett using our USATODAY.com and 108 local newspaper sites as the example for teams to follow supporting over 125 million unique visitors per month. Decreased costs by 50% and increased performance without major code changes.

@@ -1,5 +1,5 @@
 ---
-title: I've moved
+title: New Job
 layout: page
 category: blog
 ---
