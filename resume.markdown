@@ -3,7 +3,11 @@ title: Resume
 layout: page
 title_hidden: true
 ---
-> Experienced technical leader focused on driving business outcomes. Drive cultural transformations through team building and leading through change. Maintains costs and cloud efficiencies while delivering on key business goals and metrics.
+> Experienced technical leader focused on driving product outcomes in remote and hybrid organizations. Drives cultural transformations by team building and leading through change. Helps organizations maintain costs and cloud efficiencies while delivering on key business goals and metrics. Proud ally and supporter of diversity, inclusion and belonging.
+
+9+ years experience building and leading Developer Enablement organizations
+7+ years mentoring and leading people managers
+ex-Spotify, ex-New Relic, ex-Gannett/USA Today
 
 
 
