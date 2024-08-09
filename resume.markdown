@@ -5,17 +5,24 @@ title_hidden: true
 ---
 > Experienced technical leader focused on driving product outcomes in remote and hybrid organizations. Drives cultural transformations by team building and leading through change. Helps organizations maintain costs and cloud efficiencies while delivering on key business goals and metrics. Proud ally and supporter of diversity, inclusion and belonging.
 
-9+ years experience building and leading Developer Enablement organizations
-7+ years mentoring and leading people managers
-ex-Spotify, ex-New Relic, ex-Gannett/USA Today
+> 9+ years experience building and leading Developer Enablement organizations
+> 7+ years mentoring and leading people managers
+> ex-Spotify, ex-New Relic, ex-Gannett/USA Today
 
 
 
 ### Work History
 ***
-## New Relic (December 2020 - Present)
-**Senior Director, Software Engineering (December 2020 - Present)**
+## Spotify (April 2022 - Present)
+**Senior Engineering Manager**
 
+## New Relic (December 2020 - March 2022)
+**Senior Director, Software Engineering (December 2020 - March 2022)**
+> Bootstrapped a new group of teams focused on reliability within the Telemetry Data Platform
+Executed cross functional project to implement defensive quotas within our message bus across all applications teams, leading to a drastic reduction in self inflicted outages within our Kafka platform
+
+> Owned the engineering coordination and communication with key customers around reliability in collaboration with our support and customer service organizations
+Reshaped existing internal tools and engineering support teams to focus them on the most important tasks leading to morale turn around and greater visibility into customer experience during incidents.
 
 ## Gannett (September 2013 - December 2020)
 **Director, Platform Engineering (2017-2020)**
