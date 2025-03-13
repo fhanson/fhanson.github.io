@@ -13,8 +13,15 @@ title_hidden: true
 
 ### Work History
 ***
-## Spotify (April 2022 - Present)
+## Spotify (April 2022 - December 2024)
 **Senior Engineering Manager**
+>Drove the migration from home grown container deployment system to Kubernetes reducing deployment complexity and reducing annual costs by $3.6M
+Managed the Backend Foundations Product Area serving a consolidated internal  Java Framework and dependency offering to over 3000 internal backend developers.
+Consolidated Reliability and Observability offerings to provide a cohesive unified Service Level management experience.
+Liaised with Spotify Backend Advisory Board to provide aligned guidance in coordination with Spotify’s back end experience and core infrastructure products.
+Maintained a variety of vendor relationships and participated as sponsor for the observability and config management SIGs with GCP.
+Partnered closely with Product leaders to create an overall Backend Platform as a Service strategy to standardize development patterns and move up the stack.
+
 
 ## New Relic (December 2020 - March 2022)
 **Senior Director, Software Engineering (December 2020 - March 2022)**
