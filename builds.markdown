@@ -1,6 +1,6 @@
 ---
 title: Build Log
-layout: builds
+layout: home
 category: builds
 list_title: Builds
 title_hidden: true
