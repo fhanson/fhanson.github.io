@@ -24,10 +24,13 @@ layout: base
     <ul class="post-list">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
       {%- for post in posts -%}
-        {% if post.categories contains 'publicspeaking' %}
+        {% if post.categories contains page.category %}
         <li>
           <span class="post-meta">{{ post.date | date: date_format }}</span>
           <h3>
+            {% if post.image %}
+            <a href="{{ post.url | relative_url }}"><img src="{{ post.image | prepend: site.baseurl }}" alt="{{ post.title }}" title="{{ post.title }}" width="400px" height"auto"></a>
+            {% endif %}
             <a class="post-link" href="{{ post.url | relative_url }}">
               {{ post.title | escape }}
             </a>

@@ -43,3 +43,4 @@ minima:
     - title: Thingiverse
       icon: cubes
       url: "https://www.thingiverse.com/optymoose/designs"
+  show_excerpts: true
