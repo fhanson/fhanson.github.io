@@ -29,3 +29,6 @@ It didn't take long for the design to shape up. For fun I slapped on some paint 
 I had to move the choke around from where I originally imagined to accomodate the longer length of the chassis but it worked out quite well.
 
 ![]({{ 'static/Saber hilt.jpeg' | relative_url }})
+![]({{ 'static/mounted chassis.jpeg' | relative_url }})
+
+I really appreciated all the community resources out there. Particularly the work done on Proffie. Shout outs to [Fredrik Hubinette for ProffieOS](https://fredrik.hubbe.net/), [Fett263 for his style libraries](https://www.fett263.com/), and  Ryan Ogurek for [ProffieConfig](https://github.com/ryancog/ProffieConfig)
