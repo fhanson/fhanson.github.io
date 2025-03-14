@@ -1,15 +1,45 @@
 
 title: Collecting Dust
-email: fhanson@cloud-mgmt.com
+author:
+  name: fhanson
+  email: fhanson@cloud-mgmt.com
+theme: minima
 logo: /static/self_portrait.png
 description: Collection of links and tidbits for Franklin Hanson
 baseurl: ''
 url: 'https://cloud-mgmt.com'
-twitter_username: franklinhanson1
-github_username: fhanson
-linkedin_username: franklin-hanson
-keybase_username: fhanson
-google_tagmanager: GTM-T6MDCH4
-theme: minima
+# bluesky_username: franklinhanson.bsky.social
+# github_username: fhanson
+# linkedin_username: franklin-hanson
+# keybase_username: fhanson
+# google_tagmanager: GTM-T6MDCH4
+# set up remote_theme
+remote_theme: jekyll/minima
+# theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+minima:
+  nav_pages:
+    - about.markdown
+    - builds.markdown
+    - index.markdown
+    - resume.markdown
+    - speaking.markdown
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/fhanson"
+    - title: franklinhanson.bsky.social
+      icon: square-bluesky
+      url: "https://bsky.app/profile/franklinhanson.bsky.social"
+    - title: LinkedIn
+      icon: linkedin-in
+      url: "https://www.linkedin.com/in/franklin-hanson/"
+    - title: Printables
+      icon: p
+      url: "https://www.printables.com/@optymoose_2339055"
+    - title: Thingiverse
+      icon: cubes
+      url: "https://www.thingiverse.com/optymoose/designs"
