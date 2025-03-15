@@ -8,11 +8,7 @@ logo: /static/self_portrait.png
 description: Collection of links and tidbits for Franklin Hanson
 baseurl: ''
 url: 'https://cloud-mgmt.com'
-# bluesky_username: franklinhanson.bsky.social
-# github_username: fhanson
-# linkedin_username: franklin-hanson
-# keybase_username: fhanson
-# google_tagmanager: GTM-T6MDCH4
+google_analytics: G-V2B8KY9K46
 # set up remote_theme
 remote_theme: jekyll/minima
 # theme: minima
